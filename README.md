@@ -74,10 +74,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="VanemKrAu's GitHub Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=VanemKrAu&show_icons=true&count_private=true&bg_color=0d1117&title_color=22d3ee&icon_color=8b5cf6&text_color=c9d1d9&border_color=30363d&border_radius=10&card_width=400" height="180px"/>
+    <img alt="VanemKrAu's GitHub Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=VanemKrAu&show_icons=true&count_private=true&bg_color=0d1117&title_color=22d3ee&icon_color=8b5cf6&text_color=c9d1d9&border_color=30363d&border_radius=10&card_width=400" style="vertical-align: top"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Languages" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=VanemKrAu&langs_count=6&bg_color=0d1117&title_color=22d3ee&icon_color=8b5cf6&text_color=c9d1d9&border_color=30363d&border_radius=10&card_width=400" height="180px"/>
+    <img alt="Top Languages" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=VanemKrAu&langs_count=6&bg_color=0d1117&title_color=22d3ee&icon_color=8b5cf6&text_color=c9d1d9&border_color=30363d&border_radius=10&card_width=400" style="vertical-align: top"/>
   </a>
 </p>
 
