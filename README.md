@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  用 C++ 与 Python 做桌面软件和游戏工具，把想玩的东西改成自己能控的样子。
+  用 C++ 与 Python 做桌面软件和游戏工具，用 Flutter 写安卓应用，把想玩的东西改成自己能控的样子。
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 - 🏎️ 做《王牌竞速》大招能量计算器，帮玩家算好每一次大招收益
 - 🖥️ 用 **C++ / Direct3D 11 / FFmpeg** 写 Windows 桌面渲染器（Wallpaper Engine 播放器）
 - 🎧 魔改 **Mineradio**，做一个更适合自己用的增强版
-- 🛠️ 用 **Python** 搭数据工作台，处理游戏与桌面场景里的杂活
+- 📱 用 **Flutter + C++ FFI** 写图片盲水印安卓 App，本地离线保护图片版权
 - 📚 边学边做，用 **HTML / JS** 做小工具和练习项目
 
 ## 精选项目
@@ -33,26 +33,26 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/VanemKrAu/win-wallpaper-engine">win-wallpaper-engine</a></h3>
-      <p>Windows 原生 Wallpaper Engine 动态壁纸渲染器，基于 Direct3D 11 + FFmpeg，把 .pkg 壁纸在桌面上跑起来。</p>
-      <p><code>C++</code> <code>Direct3D 11</code> <code>FFmpeg</code></p>
+      <h3><a href="https://github.com/VanemKrAu/Ace-Racer-Calc">Ace-Racer-Calc</a></h3>
+      <p>《王牌竞速》大招能量精密计算器：双轨并行测算「首发一大」与「后续无限循环」，支持 6 种氮气规格换算、智能芯片联动面板、七大赋能矩阵与对手反制干扰模拟。公益免费，在线可用。</p>
+      <p><code>HTML</code> <code>JavaScript</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/VanemKrAu/Ace-Racer-Calc">Ace-Racer-Calc</a></h3>
-      <p>《王牌竞速》大招能量计算器，实时估算能量与大招时机，做游戏内决策参考。</p>
-      <p><code>HTML</code> <code>JavaScript</code></p>
+      <h3><a href="https://github.com/VanemKrAu/Mineradio-Plus">Mineradio-Plus</a></h3>
+      <p>Mineradio 个人修改增强版（v2.0.2-1，基于 GPL-3.0）：热评卡片壁纸视频导入、RePKG 解包提取、年龄分级筛选、托盘功能增强与壁纸排序优化。</p>
+      <p><code>Electron</code> <code>JavaScript</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/VanemKrAu/Mineradio-Plus">Mineradio-Plus</a></h3>
-      <p>Mineradio 个人修改增强版，在原有基础上调整功能与体验。</p>
-      <p><code>JavaScript</code></p>
+      <h3><a href="https://github.com/VanemKrAu/blind-watermark-app">blind-watermark-app</a></h3>
+      <p>图片盲水印安卓 App：DWT-DCT-SVD + WAM 双方案，嵌入免原图即可提取，支持文本 / Logo / 强鲁棒标识，零参数自动识别，全程本地离线。</p>
+      <p><code>Flutter</code> <code>C++</code> <code>FFI</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/VanemKrAu/AceRacing-Workbench">AceRacing-Workbench</a></h3>
-      <p>王牌竞速数据工作台，用 Python 处理游戏数据与分析。</p>
-      <p><code>Python</code></p>
+      <h3><a href="https://github.com/VanemKrAu/win-wallpaper-engine">win-wallpaper-engine</a></h3>
+      <p>Windows 原生 Wallpaper Engine .pkg 渲染器：Direct3D 11 + FFmpeg 7.1 视频解码（H.264/MP4 60fps），.tex 纹理解码（TEXV + LZ4），Lanczos 高质量转换。</p>
+      <p><code>C++</code> <code>Direct3D 11</code> <code>FFmpeg</code></p>
     </td>
   </tr>
 </table>
@@ -64,6 +64,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/Direct3D-00A4EF?style=flat-square&logo=windows&logoColor=white" alt="Direct3D">
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows">
