@@ -47,7 +47,7 @@
     <td width="50%" valign="top">
       <h3><a href="https://github.com/VanemKrAu/blind-watermark-app">blind-watermark-app</a></h3>
       <p>图片盲水印安卓 App：DWT-DCT-SVD + WAM 双方案，嵌入免原图即可提取，支持文本 / Logo / 强鲁棒标识，零参数自动识别，全程本地离线。</p>
-      <p><code>Flutter</code> <code>C++</code> <code>FFI</code></p>
+      <p><code>Flutter</code> <code>Dart</code> <code>C++</code> <code>FFI</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/VanemKrAu/win-wallpaper-engine">win-wallpaper-engine</a></h3>
